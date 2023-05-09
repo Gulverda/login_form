@@ -1,0 +1,42 @@
+.dark {
+    background: #093545;
+}
+.dark h1 {
+    color: white;
+}
+
+.dark .input{
+    outline: none;
+    border: none;
+    width: 300px;
+    height: 45px;
+    background-color: #224957;
+    border-radius: 10px;
+    margin: 0 auto;
+    color: #ffffff;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-family: 'Lexend Deca';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    margin-top: 32px;
+}
+
+.dark .forgot a{
+    color: #20DF7F;
+}
+
+.dark h4{
+    color: #ffffff;
+}
+
+.dark label{
+    color: #ffffff;
+}
+
+.dark .tetri{
+    rotate: 180deg;
+    margin-left: -15px;
+}
